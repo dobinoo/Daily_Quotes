@@ -1,4 +1,4 @@
-from termcolor import colored   #add colored output here
+afrom termcolor import colored   #add colored output here
 import time #to use sleep function for delay
 import urllib2 #for handling content from website
 #for using system functions
