@@ -1,6 +1,6 @@
 ## Hello there
 
-This is a simple python/shell script to gather a daily quote from brainyquote.com
+This is a simple python/shell script to gather a daily quote from ```brainyquote.com```
 
 ### Requirements:
 
@@ -10,7 +10,7 @@ This is a simple python/shell script to gather a daily quote from brainyquote.co
 - JUST "python quote.py" :)
 
 ### INFO
-- This work is only for educational purpose and mainly to improve my skills in python and try to make and end my projects :). If have any questions or comments, you can send email to "dobinoo5@gmail.com".
+This work is only for educational purpose and mainly to improve my skills in python and try to make and end my projects :). If have any questions or comments, you can send email to ```"dobinoo5@gmail.com"```.
 
 
 ### DISCLAIMER:
