@@ -69,7 +69,7 @@ print colored(author,"red", attrs=['bold'])
 #print html
 #printing part
 ###########
-time.sleep(3)
+time.sleep(1)
 bye()
 
 #end of main part of code
