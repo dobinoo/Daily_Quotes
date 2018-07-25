@@ -6,7 +6,9 @@ This is a simple python/shell script to gather a daily quote from ```brainyquote
 
 - only python (should work for any version of python, but if it doesn't work try download latest version)
 - you need (obviously) internet connection
-- None other things required
+- for beautiful color output you need termcolor library
+- all things are in ```requirements.txt```
+- for easy library install ```pip install -r requirements.txt```
 - None installation required
 - JUST "python quote.py" :)
 - if you still get some errors try to check if website isn't down ```ping brainyquote.com```
