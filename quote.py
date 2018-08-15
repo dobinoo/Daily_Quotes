@@ -1,4 +1,5 @@
 from termcolor import colored   #add colored output here
+import os # to use some system commands
 import time #to use sleep function for delay
 import urllib2 #for handling content from website
 #import re #imported re but later decided to use built in funcions
@@ -24,6 +25,8 @@ def bye():
 #checking function
 ################################################################3
 def check():
+    os.system('clear')
+
     if(unfinished):
         print colored("\nWarning!\nThis program is not fully finished, It might not WORK propertly!\n","yellow")
 
